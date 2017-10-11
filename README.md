@@ -186,3 +186,14 @@ MIT
  - Authentication and authorization
  - Catch-all auth
  - Get auth info from context
+
+### Blueprint for modular GraphQL/Mongo design 
+  - plan
+    - db
+      - queries.js
+      - schema.js
+    - mutations 
+    - queries
+    - resolvers
+    - schema
+    - index.js
